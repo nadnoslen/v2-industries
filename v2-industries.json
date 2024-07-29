@@ -1,0 +1,20 @@
+[
+  {
+    "code": "2048",
+    "label": {
+      "de": "Chiropraktiker",
+      "en": "Chiropractors",
+      "fr": "Chiropracteurs"
+    },
+    "id": "14_13_2048"
+  },
+  {
+    "code": "1",
+    "label": {
+      "de": "Fertigung für Verteidigung und Raumfahrt",
+      "en": "Defense and Space Manufacturing",
+      "fr": "Fabrication pour l’aérospatiale et la défense"
+    },
+    "id": "25_1029_1"
+  }
+]
