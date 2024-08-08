@@ -3,10 +3,9 @@
   "version": "1.0.0",
   "description": "Bla bla bla",
   "type": "module",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "repository": "git@github.com:nadnoslen/v2-industries.git",
+  "license": "MIT",
+  "private": true
 }
